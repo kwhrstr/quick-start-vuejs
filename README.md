@@ -3,6 +3,7 @@
 Vue.jsのtutorialを行うためのプロジェクト
 
 Vue.jsはCDNパッケージとして取り込む
+
 `<script src="https://unpkg.com/vue@next"></script>`
 
 実装するのは[Vuejs-v3ガイダンスのhtml, css, javascript](https://v3.ja.vuejs.org/guide/introduction.html)
@@ -15,4 +16,6 @@ Vue.jsはCDNパッケージとして取り込む
 
  **HTML Preview がinstallされている事**  
 
-### CDNについて
+## how to
+
+99-templateのフォルダをcopyして`TODO Implement` の部分を実装していく
